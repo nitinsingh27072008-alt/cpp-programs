@@ -6,4 +6,13 @@ This repository contains my C++ practice programs.
 Nitin Singh
 
 ## Course
-Bachelor of Computer Applications (BCA)
+Bachelor of Computer Applications (BCA)## Skills
+- C++
+- HTML
+- CSS
+- Problem Solving
+
+## Goals
+- Learn Data Structures
+- Build Projects
+- Get an Internship
